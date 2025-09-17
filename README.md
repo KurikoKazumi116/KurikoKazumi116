@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kurikokazumi116" alt="kurikokazumi116" /></a> </p>
 
-- 🔭 I’m currently working on **FoxRunner**
+- 🔭 I’m currently working on **An AI voice assistant with user voice input**
 
 - 🌱 I’m currently learning **Pygame/Python and C++**
 
